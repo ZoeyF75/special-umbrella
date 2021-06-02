@@ -10,12 +10,12 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("   /|");
-            Console.WriteLine("  / |");
-            Console.WriteLine(" /  |");
-            Console.WriteLine("/___|");
+            Console.WriteLine("There once was a man named George");
+            Console.WriteLine("He was 70 years old");
+            Console.WriteLine("He really like the name George");
+            Console.WriteLine("But he didn't like being 70");
 
-            //Console.ReadLine(); can include to keep window up for Visual Studio Community
+            Console.ReadLine();
         }
     }
 }
