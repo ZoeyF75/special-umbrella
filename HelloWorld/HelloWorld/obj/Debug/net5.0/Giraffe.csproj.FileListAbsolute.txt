@@ -1,0 +1,15 @@
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/Giraffe.deps.json
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/Giraffe.runtimeconfig.json
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/Giraffe.runtimeconfig.dev.json
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/Giraffe.dll
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/ref/Giraffe.dll
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/Giraffe.pdb
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/Giraffe.csprojAssemblyReference.cache
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/Giraffe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/Giraffe.AssemblyInfoInputs.cache
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/Giraffe.AssemblyInfo.cs
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/Giraffe.csproj.CoreCompileInputs.cache
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/Giraffe.dll
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/ref/Giraffe.dll
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/Giraffe.pdb
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/Giraffe.genruntimeconfig.cache

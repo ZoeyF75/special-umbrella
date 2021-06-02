@@ -1,0 +1,15 @@
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/zoeyfarago/lighthouse/post/c#/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
