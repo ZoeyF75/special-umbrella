@@ -8,18 +8,18 @@ namespace Giraffe
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //main Method
         {
-            int[] luckyNumbers = {4, 8, 16, 4, 13 };
-            string[] friends = new string[10]; //can hold ten values
-            luckyNumbers[0] = 900; //update value
-            friends[0] = "Jim";
-            friends[1] = "Fred";
-
-            Console.WriteLine(luckyNumbers[0]); //prints the 4
-
+            Console.Write("Enter your name: ");
+            string name = Console.ReadLine();
+            SayHi(name);
             Console.ReadLine();
 
+        }
+
+        static void SayHi(string name)
+        {
+            Console.WriteLine("Hi " + name);
         }
     }
 }
