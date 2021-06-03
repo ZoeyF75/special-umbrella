@@ -10,13 +10,13 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Math.Abs(-40)); //Absolute value
-            Console.WriteLine(Math.Pow(3, 3)); //Power
-            Console.WriteLine(Math.Sqrt(16)); //4, squareroot
-            Console.WriteLine(Math.Max(7, 10)); //max value, between 2 nums
-            Console.WriteLine(Math.Round(4.6));
+            Console.Write("Enter your name: "); //prints on same line
+            string name = Console.ReadLine();
+            Console.Write("Enter your age: ");
+            string age = Console.ReadLine();
+            Console.WriteLine("Hello " + name + " you are " + age);
 
-            Console.ReadLine();
+            Console.ReadLine(); //pauses program can use to get input
 
         }
     }
