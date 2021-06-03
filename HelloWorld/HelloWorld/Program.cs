@@ -10,11 +10,8 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter your name: "); //prints on same line
-            string name = Console.ReadLine();
-            Console.Write("Enter your age: ");
-            string age = Console.ReadLine();
-            Console.WriteLine("Hello " + name + " you are " + age);
+            int num = Convert.ToInt32("45");
+            Console.WriteLine(num + 6);
 
             Console.ReadLine(); //pauses program can use to get input
 
