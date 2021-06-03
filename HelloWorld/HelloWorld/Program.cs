@@ -10,19 +10,15 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
-            string color, pluralNoun, celebrity;
-            Console.Write("Enter a color: ");
-            color = Console.ReadLine();
-            Console.Write("Enter a plural noun: ");
-            pluralNoun = Console.ReadLine();
-            Console.Write("Enter a celebrity: ");
-            celebrity = Console.ReadLine();
+            int[] luckyNumbers = {4, 8, 16, 4, 13 };
+            string[] friends = new string[10]; //can hold ten values
+            luckyNumbers[0] = 900; //update value
+            friends[0] = "Jim";
+            friends[1] = "Fred";
 
-            Console.WriteLine("Roses are " + color);
-            Console.WriteLine(pluralNoun + " are blue");
-            Console.WriteLine("I love " + celebrity);
+            Console.WriteLine(luckyNumbers[0]); //prints the 4
 
-            Console.ReadLine(); //pauses program can use to get input
+            Console.ReadLine();
 
         }
     }
