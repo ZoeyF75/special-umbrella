@@ -10,42 +10,19 @@ namespace Giraffe
     {
         static void Main(string[] args) //main Method
         {
-            Console.WriteLine(GetDay(0));
+            Console.WriteLine(GetPower(3, 2)); //9
             Console.ReadLine();
         }
 
-        static string GetDay(int dayNum)
+        static int GetPower(int baseNum, int powNum)
         {
-            string dayName;
-
-            switch (dayNum)
+            int result = 1;
+            for (int i = 0; i < powNum; i++)
             {
-                case 0:
-                    dayName = "Sunday";
-                    break;
-                case 1:
-                    dayName = "Monday";
-                    break;
-                case 2:
-                    dayName = "Tuesday";
-                    break;
-                case 3:
-                    dayName = "Wednesday";
-                    break;
-                case 4:
-                    dayName = "Thursday";
-                    break;
-                case 5:
-                    dayName = "Friday";
-                    break;
-                case 6:
-                    dayName = "Saturday";
-                    break;
-                default:
-                    dayName = "Invalid day :(";
-                    break;
+                result *= baseNum;
             }
-            return dayName;
+            return result;
         }
+
     }
 }
