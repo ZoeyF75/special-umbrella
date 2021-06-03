@@ -10,16 +10,24 @@ namespace Giraffe
     {
         static void Main(string[] args) //main Method
         {
-            int[,] numberGrid =
+            try
             {
-                {1, 2},
-                {3, 4},
-                {5, 6}
-            };
+                Console.Write("Enter a number: ");
+                int num1 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter another number: ");
+                int num2 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(num1 / num2);
 
-            int[,] myArray = new int[2, 3];
-            Console.WriteLine(numberGrid[0, 0]);
-
+            }
+            catch(DivideByZeroException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            catch(FormatException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            
             Console.ReadLine();
         }
 
