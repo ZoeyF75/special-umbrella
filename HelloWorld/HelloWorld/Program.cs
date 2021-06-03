@@ -10,12 +10,11 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
-            string phrase = "Giraffe Academy";
-            Console.WriteLine(phrase.ToUpper());
-            Console.WriteLine(phrase.Contains("Academy"));
-            Console.WriteLine(phrase[0]); //first letter
-            Console.WriteLine(phrase.IndexOf("Academy")); //8 starts at index 8, -1 if string doesn't contain
-            Console.WriteLine(phrase.Substring(8)); //prints out Academy
+            Console.WriteLine(Math.Abs(-40)); //Absolute value
+            Console.WriteLine(Math.Pow(3, 3)); //Power
+            Console.WriteLine(Math.Sqrt(16)); //4, squareroot
+            Console.WriteLine(Math.Max(7, 10)); //max value, between 2 nums
+            Console.WriteLine(Math.Round(4.6));
 
             Console.ReadLine();
 
