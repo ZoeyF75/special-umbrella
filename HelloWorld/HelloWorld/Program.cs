@@ -10,17 +10,19 @@ namespace Giraffe
     {
         static void Main(string[] args) //main Method
         {
-            Console.Write("Enter a number: ");
-            int number = Convert.ToInt32(Console.ReadLine());
-            int answer = cube(number);
-            Console.WriteLine(answer);
+            bool isMale = false;
+            bool isTall = false;
+            if (isMale && isTall)
+            {
+               Console.WriteLine("You are a tall male");
+            } else if (isMale)
+            {
+                Console.WriteLine("You are a male");
+            } else
+            {
+               Console.WriteLine("You are not male");
+            }
             Console.ReadLine();
-
-        }
-
-        static int cube(int num)
-        {
-            return num * num * num;
         }
     }
 }
