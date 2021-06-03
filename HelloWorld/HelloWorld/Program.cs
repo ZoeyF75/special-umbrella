@@ -10,16 +10,17 @@ namespace Giraffe
     {
         static void Main(string[] args) //main Method
         {
-            Console.Write("Enter your name: ");
-            string name = Console.ReadLine();
-            SayHi(name);
+            Console.Write("Enter a number: ");
+            int number = Convert.ToInt32(Console.ReadLine());
+            int answer = cube(number);
+            Console.WriteLine(answer);
             Console.ReadLine();
 
         }
 
-        static void SayHi(string name)
+        static int cube(int num)
         {
-            Console.WriteLine("Hi " + name);
+            return num * num * num;
         }
     }
 }
