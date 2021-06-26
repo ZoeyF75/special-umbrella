@@ -1,0 +1,6 @@
+/Users/zoeyfarago/lighthouse/post/c#/TestDome/TestDome/bin/Debug/TestDome.exe
+/Users/zoeyfarago/lighthouse/post/c#/TestDome/TestDome/bin/Debug/TestDome.pdb
+/Users/zoeyfarago/lighthouse/post/c#/TestDome/TestDome/obj/Debug/TestDome.csprojAssemblyReference.cache
+/Users/zoeyfarago/lighthouse/post/c#/TestDome/TestDome/obj/Debug/TestDome.csproj.CoreCompileInputs.cache
+/Users/zoeyfarago/lighthouse/post/c#/TestDome/TestDome/obj/Debug/TestDome.exe
+/Users/zoeyfarago/lighthouse/post/c#/TestDome/TestDome/obj/Debug/TestDome.pdb
